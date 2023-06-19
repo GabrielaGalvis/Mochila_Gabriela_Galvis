@@ -1,0 +1,9 @@
+1. IP de mi VM
+inet addr:10.0.2.15 
+
+2.Direccion MAC de mi VM
+HWaddr 08:00:27:28:df:ea
+
+3. En nuestra maquina virtual si son diferentes la ip publica y la 
+privada, ya que la ip publica es la de nuestra casa, o sea la ip del 
+routher, en cambio la ip privada es interna de la VM
